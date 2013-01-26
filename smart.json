@@ -3,6 +3,6 @@
   "description": "Responsive media / lightbox repackaged for meteor",
   "homepage": "https://github.com/matteodem/meteor-fancybox",
   "author": "Matteo De Micheli",
-  "version": "1.0",
+  "version": "0.0.5",
   "git": "https://github.com/matteodem/meteor-fancybox.git"
 }
