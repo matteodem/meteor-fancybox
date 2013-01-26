@@ -1,0 +1,8 @@
+{
+  "name": "fancybox",
+  "description": "Responsive media / lightbox repackaged for meteor",
+  "homepage": "https://github.com/matteodem/meteor-fancybox",
+  "author": "Matteo De Micheli",
+  "version": "1.0",
+  "git": "https://github.com/matteodem/meteor-fancybox.git"
+}
