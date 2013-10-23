@@ -4,5 +4,5 @@
   "homepage": "https://github.com/matteodem/meteor-fancybox",
   "author": "Matteo De Micheli",
   "version": "0.5.0",
-  "git": "https://github.com/matteodem/meteor-fancybox.git"
+  "git": "git@github.com:matteodem/meteor-fancybox.git"
 }
