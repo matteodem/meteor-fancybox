@@ -12,6 +12,7 @@ Package.on_use(function(api) {
         'lib/fancybox_overlay.png',
         'lib/fancybox_sprite.png',
         'lib/fancybox_sprite@2x.png',
-        'lib/blank.gif']
+        'lib/blank.gif',
+		'path-override.css']
         , 'client');
 });
